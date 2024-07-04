@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Holdings</string>
+    <string name="error_fetching_data">Error fetching the data</string>
+    <string name="current_value">Current Value:</string>
+    <string name="total_investment">Total Investment:</string>
+    <string name="todays_profit">Today\'s Profit &amp; Loss:</string>
+    <string name="profit_n_loss">Profit &amp; Loss:</string>
+</resources>
